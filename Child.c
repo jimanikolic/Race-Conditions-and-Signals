@@ -2,7 +2,7 @@
 #include <sys/types.h> // for pid_t
 #include <unistd.h> // for pid_t
 #include <stdlib.h> // for getenv(), exit()
-#include "proj5.h"
+#include "const.h"
 #include <string.h>
 #include <sys/wait.h>
 #include <time.h>
