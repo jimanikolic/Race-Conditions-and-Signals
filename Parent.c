@@ -3,7 +3,7 @@
 #include <stdlib.h> // for getenv(), exit()
 #include <string.h>
 #include <sys/wait.h>
-#include "proj5.h"
+#include "const.h"
 #define MAX_STR 64
 #define MAX_BUF 10
 #define WRITE_END 1
